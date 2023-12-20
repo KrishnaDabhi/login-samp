@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/login-samp.git/static/css/main.c74c2eb8.css",
+    "main.js": "/login-samp.git/static/js/main.d8ee07c4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/login-samp.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/login-samp.git/index.html",
+    "main.c74c2eb8.css.map": "/login-samp.git/static/css/main.c74c2eb8.css.map",
+    "main.d8ee07c4.js.map": "/login-samp.git/static/js/main.d8ee07c4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/login-samp.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c74c2eb8.css",
+    "static/js/main.d8ee07c4.js"
+  ]
+}
